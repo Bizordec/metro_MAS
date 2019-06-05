@@ -1,0 +1,40 @@
+/*
+
+    metro
+
+    ---------------------------
+
+
+
+    Jason Project File
+
+
+
+    This file defines the initial state of the MAS
+
+
+
+    Jason 
+
+    апреля 14, 2019 - 23:17:22
+
+*/
+
+
+
+MAS metro {
+
+
+
+    infrastructure: Centralised
+
+
+
+    environment: MetroEnv
+	
+    agents:
+		passenger#5;
+        metro;
+}
+
+
